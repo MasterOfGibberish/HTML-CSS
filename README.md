@@ -1,2 +1,2 @@
 # HTML-CSS
-My most beautiful websites that were created 
+First vanilla (not dynamic) HTML and CSS codes ever! 
