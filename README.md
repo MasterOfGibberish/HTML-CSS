@@ -1,2 +1,2 @@
 # HTML-CSS
-First vanilla (not dynamic) HTML and CSS codes ever! 
+First vanilla (not dynamic website, just basics) HTML and CSS codes ever! 
